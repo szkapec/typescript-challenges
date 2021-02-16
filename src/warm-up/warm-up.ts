@@ -19,6 +19,8 @@ const todos: Map = [
 
 /* Do not modify tests */
 
+// async () => 
+
 test('should verify age', () => {
     expect(age).toBe(80);
 })
